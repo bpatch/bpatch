@@ -4,7 +4,28 @@ Recently I have been working on the new Python package BirDePy. The package is d
 
 Here is a list of my scientific publications:
 
-## Journal articles
+**Birth-and-death processes in Python: The BirDePy package**  
+with Sophie Hautphenne
+[arXiv](https://arxiv.org/pdf/2110.05067.pdf) - [pdf](https://github.com/bpatch/publications/blob/main/birdepy.pdf) - [code](https://github.com/birdepy/birdepy_project/tree/main/src/birdepy) - [docs](https://birdepy.github.io/)  
+
+**Simulating population-size-dependent birth-and-death processes using CUDA and piecewise approximations**  
+with Sophie Hautphenne  
+*Modsim 2021, Sydney, Australia*  
+[pdf](https://github.com/bpatch/publications/blob/main/psdbdp_simulation.pdf) - [code]()  
+
+**Analyzing large frequency disruptions in power systems using large deviations theory**  
+with Bert Zwart  
+*Probabilistic Methods Applied to Power Systems 2020, Liege Belgium (Online)*  
+[online](https://ieeexplore.ieee.org/document/9183551) - [arXiv](https://arxiv.org/abs/2002.12675) - [pdf](https://github.com/bpatch/publications/blob/main/power-system-frequency-disruptions.pdf) - [code](https://github.com/bpatch/power-system-frequency-deviations)  
+
+**Ranking transmission lines by overload probability using the empirical rate function**  
+with Bert Zwart  
+*Probabilistic Methods Applied to Power Systems 2020, Liege Belgium (Online)*  
+[online](https://ieeexplore.ieee.org/document/9183567) - [arXiv](https://arxiv.org/abs/2002.12675) - [pdf](https://github.com/bpatch/publications/blob/main/power-system-tail-rank.pdf) - [code](https://github.com/bpatch/power-system-line-rank)  
+
+**Optimisation of stochastic networks with blocking: a functional-form approach**  
+with Mark S. Squillante and Peter M. van de Ven  
+[arXiv](https://arxiv.org/pdf/1904.05040v2.pdf) - [pdf](https://github.com/bpatch/publications/blob/main/PatchSquillanteVandeVen2019.pdf) - [code](https://github.com/bpatch/stochastic-networks-with-blocking)  
 
 **Networks of infinite-server queues with multiplicative transitions**  
 with Dieter Fiems and Michel Mandjes  
@@ -31,23 +52,6 @@ with Yoni Nazarathy and Thomas Taimre
 *Statistics and Probability Letters (2015)*  
 [online](https://www.sciencedirect.com/science/article/pii/S0167715215000942#) - [arXiv](https://arxiv.org/abs/1408.1530) - [pdf](https://github.com/bpatch/publications/blob/main/PatchNazarathyTaimre2015.pdf)  
 
-## Refereed conference proceedings
-
-**Simulating population-size-dependent birth-and-death processes using CUDA and piecewise approximations**  
-with Sophie Hautphenne  
-*Modsim 2021, Sydney, Australia*  
-[pdf](https://github.com/bpatch/publications/blob/main/psdbdp_simulation.pdf) - [code]()  
-
-**Analyzing large frequency disruptions in power systems using large deviations theory**  
-with Bert Zwart  
-*Probabilistic Methods Applied to Power Systems 2020, Liege Belgium (Online)*  
-[online](https://ieeexplore.ieee.org/document/9183551) - [arXiv](https://arxiv.org/abs/2002.12675) - [pdf](https://github.com/bpatch/publications/blob/main/power-system-frequency-disruptions.pdf) - [code](https://github.com/bpatch/power-system-frequency-deviations)  
-
-**Ranking transmission lines by overload probability using the empirical rate function**  
-with Bert Zwart  
-*Probabilistic Methods Applied to Power Systems 2020, Liege Belgium (Online)*  
-[online](https://ieeexplore.ieee.org/document/9183567) - [arXiv](https://arxiv.org/abs/2002.12675) - [pdf](https://github.com/bpatch/publications/blob/main/power-system-tail-rank.pdf) - [code](https://github.com/bpatch/power-system-line-rank)  
-
 **Evaluation of a self-organized traffic light policy**  
 with Michelle Borm, Thomas Taimre, Ivo Adan  
 *Valuetools 2015, Berlin, Germany*  
@@ -63,13 +67,6 @@ with Yoni Nazarathy, Thomas Taimre, Azam Asanjarani, Julia Kuhn, Aapeli Vuorinen
 *Australian Control Conference 2015, Gold Coast, Australia*  
 [online](https://ieeexplore.ieee.org/abstract/document/7361960) - [pdf](https://github.com/bpatch/publications/blob/main/AUCC2015.pdf)  
 
-**Evaluating watershed development impacts on physical capital using household surveys and Bayesian networks**  
-with Wendy Merritt, V. Ratna Reddy and Sandjit Rout  
-*Modsim 2013, Adelaide, Australia*  
-[online](http://www.mssanz.org.au/modsim2013/L16/patch.pdf) - [pdf](https://github.com/bpatch/publications/blob/main/patch_modsim2013.pdf)  
-
-## Book chapters
-
 **Modeling livelihood indicators and household resilience using Bayesian networks**  
 with Wendy S. Merritt, V. Ratna Reddy, Sandjit Rout and Geoffrey J. Syme  
 *Chapter 9 in Integrated Assessment of Scale Impacts of Watershed Intervention (2015)*  
@@ -78,13 +75,9 @@ with Wendy S. Merritt, V. Ratna Reddy, Sandjit Rout and Geoffrey J. Syme
 with Wendy S. Merritt, K. V. Rao, Geoffrey J. Syme and P. D. Sreedevi  
 *Chapter 12 in Integrated Assessment of Scale Impacts of Watershed Intervention (2015)*
 
-## Reports
+**Evaluating watershed development impacts on physical capital using household surveys and Bayesian networks**  
+with Wendy Merritt, V. Ratna Reddy and Sandjit Rout  
+*Modsim 2013, Adelaide, Australia*  
+[online](http://www.mssanz.org.au/modsim2013/L16/patch.pdf) - [pdf](https://github.com/bpatch/publications/blob/main/patch_modsim2013.pdf)  
 
-**Birth-and-death processes in Python: The BirDePy package**  
-with Sophie Hautphenne
-[arXiv](https://arxiv.org/pdf/2110.05067.pdf) - [pdf](https://github.com/bpatch/publications/blob/main/birdepy.pdf) - [code](https://github.com/birdepy/birdepy_project/tree/main/src/birdepy) - [docs](https://birdepy.github.io/)  
-
-**Optimisation of stochastic networks with blocking: a functional-form approach**  
-with Mark S. Squillante and Peter M. van de Ven  
-[arXiv](https://arxiv.org/pdf/1904.05040v2.pdf) - [pdf](https://github.com/bpatch/publications/blob/main/PatchSquillanteVandeVen2019.pdf) - [code](https://github.com/bpatch/stochastic-networks-with-blocking)  
 
