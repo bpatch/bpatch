@@ -4,8 +4,6 @@ Recently I have been working on the new Python package BirDePy. The package is d
 
 Here is a list of my scientific publications:
 
-### PUBLICATIONS
-
 ## Journal articles
 
 **Networks of infinite-server queues with multiplicative transitions**  
