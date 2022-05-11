@@ -1,6 +1,6 @@
-I am a research mathematician turned data scientist with over nine years of experience working in advanced analytics. I have developed and communicated data science techniques  with diverse multi-disciplinary teams in Australia, Europe and the USA. I actively foster mature constructive relationships with stakeholders to share knowledge, encourage learning and solve challenging problems, in particular those with a focus on real world impact.
+I am a research mathematician turned data scientist with over nine years of experience working in advanced analytics. I have developed and communicated data science techniques  with diverse multi-disciplinary teams in Australia, Europe and the USA. I actively foster mature constructive relationships with stakeholders to share knowledge, encourage learning and solve challenging problems, in particular those with a focus on real world impact. These days I work for the Victorian Government. 
 
-Recently I have been working on the new Python package BirDePy. The package is documented [here](https://birdepy.github.io/) and described in detail [here](https://github.com/bpatch/publications/blob/main/birdepy.pdf). The source code is found [here](https://github.com/birdepy/birdepy_project/tree/main/src/birdepy). 
+Previously I worked on the Python package BirDePy. The package is documented [here](https://birdepy.github.io/) and described in detail [here](https://github.com/bpatch/publications/blob/main/birdepy.pdf). The source code is found [here](https://github.com/birdepy/birdepy_project/tree/main/src/birdepy). 
 
 Here is a list of my scientific publications:
 
