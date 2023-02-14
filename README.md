@@ -1,6 +1,9 @@
-I am a research mathematician turned data scientist with over nine years of experience working in advanced analytics. I have developed and communicated data science techniques  with diverse multi-disciplinary teams in Australia, Europe and the USA. I actively foster mature constructive relationships with stakeholders to share knowledge, encourage learning and solve challenging problems, in particular those with a focus on real world impact. These days I work for the Victorian Government. 
+I am a research mathematician turned data scientist with over ten years of experience working in applied probability, data science, and machine learning. I have developed and communicated advanced techniques in these fields with diverse multi-disciplinary teams in Australia, Europe and the USA. I actively foster mature constructive relationships with stakeholders to share knowledge, encourage learning and solve challenging problems, in particular those with a focus on real world impact. These days I work for the Victorian Centre for Data Insights, where I regularly deploy to production in teams consisting of analysts and engineers. 
 
 Previously I worked on the Python package BirDePy. The package is documented [here](https://birdepy.github.io/) and described in detail [here](https://github.com/bpatch/publications/blob/main/birdepy.pdf). The source code is found [here](https://github.com/birdepy/birdepy_project/tree/main/src/birdepy). 
+
+I have also worked on state-of-the-art algorithms for the analysis of power grids with a large amount of (randomly evolving) renewable power generation.
+I've also developed and experimented extensively with optimisation algorithms for queueing network models applicable to areas such as emergency services management, cloud compute resource provisioning, and spare parts supply chains. In addition, I've used Bayesian network models to draw conclusions from social survey data to understand livelihoods and household resilience to droughts in developing economies. 
 
 Here is a list of my scientific publications:
 
