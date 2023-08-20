@@ -19,7 +19,7 @@ with Sophie Hautphenne
 **Analyzing large frequency disruptions in power systems using large deviations theory**  
 with Bert Zwart  
 *Probabilistic Methods Applied to Power Systems 2020, Liege Belgium (Online)*  
-[online](https://ieeexplore.ieee.org/document/9183551) - [arXiv]([https://arxiv.org/abs/2002.12675](https://arxiv.org/abs/2002.12671)) - [pdf](https://github.com/bpatch/publications/blob/main/power-system-frequency-disruptions.pdf) - [code](https://github.com/bpatch/power-system-frequency-deviations)  
+[online](https://ieeexplore.ieee.org/document/9183551) - [arXiv](https://arxiv.org/abs/2002.12671) - [pdf](https://github.com/bpatch/publications/blob/main/power-system-frequency-disruptions.pdf) - [code](https://github.com/bpatch/power-system-frequency-deviations)  
 
 **Ranking transmission lines by overload probability using the empirical rate function**  
 with Bert Zwart  
